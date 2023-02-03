@@ -2,6 +2,6 @@
 
 Wish I had dummy text
 
-## Testing Subtexts
+## Testing Sub-headings
 
 Probably just trolling
